@@ -13,5 +13,6 @@
 - Alternate text is present for all necessary images.
 - The delete button animation works.
 
+Sorry for my mistake< for merging the branch>
 
 https://pollypvl.github.io/clean-code-s1e1/
